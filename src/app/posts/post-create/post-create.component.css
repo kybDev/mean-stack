@@ -1,0 +1,9 @@
+
+mat-form-field,
+textarea{
+  width: 100%;
+}
+
+.save-post{
+  margin-top: 1em;
+}
